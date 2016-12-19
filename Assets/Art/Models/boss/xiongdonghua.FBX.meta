@@ -1,0 +1,2894 @@
+fileFormatVersion: 2
+guid: 55e8c21c1eb78f94caf81fe875030fd7
+timeCreated: 1480501762
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: a
+    100002: b
+    100004: Bip01
+    100006: Bip01 L Calf
+    100008: Bip01 L Clavicle
+    100010: Bip01 L Finger0
+    100012: Bip01 L Finger01
+    100014: Bip01 L Finger0Nub
+    100016: Bip01 L Finger1
+    100018: Bip01 L Finger11
+    100020: Bip01 L Finger1Nub
+    100022: Bip01 L Finger2
+    100024: Bip01 L Finger21
+    100026: Bip01 L Finger2Nub
+    100028: Bip01 L Finger3
+    100030: Bip01 L Finger31
+    100032: Bip01 L Finger3Nub
+    100034: Bip01 L Foot
+    100036: Bip01 L Forearm
+    100038: Bip01 L Hand
+    100040: Bip01 L Thigh
+    100042: Bip01 L Toe0
+    100044: Bip01 L Toe0Nub
+    100046: Bip01 L UpperArm
+    100048: Bip01 Neck
+    100050: Bip01 Prop1
+    100052: Bip01 R Calf
+    100054: Bip01 R Clavicle
+    100056: Bip01 R Finger0
+    100058: Bip01 R Finger01
+    100060: Bip01 R Finger0Nub
+    100062: Bip01 R Finger1
+    100064: Bip01 R Finger11
+    100066: Bip01 R Finger1Nub
+    100068: Bip01 R Finger2
+    100070: Bip01 R Finger21
+    100072: Bip01 R Finger2Nub
+    100074: Bip01 R Finger3
+    100076: Bip01 R Finger31
+    100078: Bip01 R Finger3Nub
+    100080: Bip01 R Foot
+    100082: Bip01 R Forearm
+    100084: Bip01 R Hand
+    100086: Bip01 R Thigh
+    100088: Bip01 R Toe0
+    100090: Bip01 R Toe0Nub
+    100092: Bip01 R UpperArm
+    100094: Bip01 Spine
+    100096: Bip01 Spine1
+    100098: "Bip01 \u5934\u90E8"
+    100100: "Bip01 \u5934\u90E8Nub"
+    100102: "Bip01 \u8DB3\u8FF9"
+    100104: "Bip01 \u9AA8\u76C6"
+    100106: bone00
+    100108: Bone01
+    100110: bone01
+    100112: bone02
+    100114: bone03
+    100116: bone04
+    100118: bone05
+    100120: bone06
+    100122: bone07
+    100124: bone08
+    100126: bone09
+    100128: bone10
+    100130: bone11
+    100132: bone12
+    100134: bone13
+    100136: bone14
+    100138: bone15
+    100140: bone16
+    100142: bone17
+    100144: bone18
+    100146: bone19
+    100148: bone20
+    100150: bone21
+    100152: bone22
+    100154: bone23
+    100156: bone24
+    100158: bone25
+    100160: bone26
+    100162: bone27
+    100164: bone28
+    100166: bone29
+    100168: bone30
+    100170: Particle View 01
+    100172: Particle View 01 1
+    100174: Particle View 01 10
+    100176: Particle View 01 11
+    100178: Particle View 01 12
+    100180: Particle View 01 13
+    100182: Particle View 01 14
+    100184: Particle View 01 15
+    100186: Particle View 01 16
+    100188: Particle View 01 17
+    100190: Particle View 01 18
+    100192: Particle View 01 19
+    100194: Particle View 01 2
+    100196: Particle View 01 20
+    100198: Particle View 01 21
+    100200: Particle View 01 22
+    100202: Particle View 01 23
+    100204: Particle View 01 24
+    100206: Particle View 01 25
+    100208: Particle View 01 26
+    100210: Particle View 01 27
+    100212: Particle View 01 3
+    100214: Particle View 01 4
+    100216: Particle View 01 5
+    100218: Particle View 01 6
+    100220: Particle View 01 7
+    100222: Particle View 01 8
+    100224: Particle View 01 9
+    100226: //RootNode
+    400000: a
+    400002: b
+    400004: Bip01
+    400006: Bip01 L Calf
+    400008: Bip01 L Clavicle
+    400010: Bip01 L Finger0
+    400012: Bip01 L Finger01
+    400014: Bip01 L Finger0Nub
+    400016: Bip01 L Finger1
+    400018: Bip01 L Finger11
+    400020: Bip01 L Finger1Nub
+    400022: Bip01 L Finger2
+    400024: Bip01 L Finger21
+    400026: Bip01 L Finger2Nub
+    400028: Bip01 L Finger3
+    400030: Bip01 L Finger31
+    400032: Bip01 L Finger3Nub
+    400034: Bip01 L Foot
+    400036: Bip01 L Forearm
+    400038: Bip01 L Hand
+    400040: Bip01 L Thigh
+    400042: Bip01 L Toe0
+    400044: Bip01 L Toe0Nub
+    400046: Bip01 L UpperArm
+    400048: Bip01 Neck
+    400050: Bip01 Prop1
+    400052: Bip01 R Calf
+    400054: Bip01 R Clavicle
+    400056: Bip01 R Finger0
+    400058: Bip01 R Finger01
+    400060: Bip01 R Finger0Nub
+    400062: Bip01 R Finger1
+    400064: Bip01 R Finger11
+    400066: Bip01 R Finger1Nub
+    400068: Bip01 R Finger2
+    400070: Bip01 R Finger21
+    400072: Bip01 R Finger2Nub
+    400074: Bip01 R Finger3
+    400076: Bip01 R Finger31
+    400078: Bip01 R Finger3Nub
+    400080: Bip01 R Foot
+    400082: Bip01 R Forearm
+    400084: Bip01 R Hand
+    400086: Bip01 R Thigh
+    400088: Bip01 R Toe0
+    400090: Bip01 R Toe0Nub
+    400092: Bip01 R UpperArm
+    400094: Bip01 Spine
+    400096: Bip01 Spine1
+    400098: "Bip01 \u5934\u90E8"
+    400100: "Bip01 \u5934\u90E8Nub"
+    400102: "Bip01 \u8DB3\u8FF9"
+    400104: "Bip01 \u9AA8\u76C6"
+    400106: bone00
+    400108: Bone01
+    400110: bone01
+    400112: bone02
+    400114: bone03
+    400116: bone04
+    400118: bone05
+    400120: bone06
+    400122: bone07
+    400124: bone08
+    400126: bone09
+    400128: bone10
+    400130: bone11
+    400132: bone12
+    400134: bone13
+    400136: bone14
+    400138: bone15
+    400140: bone16
+    400142: bone17
+    400144: bone18
+    400146: bone19
+    400148: bone20
+    400150: bone21
+    400152: bone22
+    400154: bone23
+    400156: bone24
+    400158: bone25
+    400160: bone26
+    400162: bone27
+    400164: bone28
+    400166: bone29
+    400168: bone30
+    400170: Particle View 01
+    400172: Particle View 01 1
+    400174: Particle View 01 10
+    400176: Particle View 01 11
+    400178: Particle View 01 12
+    400180: Particle View 01 13
+    400182: Particle View 01 14
+    400184: Particle View 01 15
+    400186: Particle View 01 16
+    400188: Particle View 01 17
+    400190: Particle View 01 18
+    400192: Particle View 01 19
+    400194: Particle View 01 2
+    400196: Particle View 01 20
+    400198: Particle View 01 21
+    400200: Particle View 01 22
+    400202: Particle View 01 23
+    400204: Particle View 01 24
+    400206: Particle View 01 25
+    400208: Particle View 01 26
+    400210: Particle View 01 27
+    400212: Particle View 01 3
+    400214: Particle View 01 4
+    400216: Particle View 01 5
+    400218: Particle View 01 6
+    400220: Particle View 01 7
+    400222: Particle View 01 8
+    400224: Particle View 01 9
+    400226: //RootNode
+    2300000: b
+    3300000: b
+    4300000: a
+    4300002: b
+    7400000: run
+    7400002: dead
+    7400004: idle
+    7400006: idle2
+    7400008: attack
+    7400010: stop
+    7400012: beattack1
+    7400014: beattack2
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: a
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 100
+      lastFrame: 124
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dead
+      takeName: Take 001
+      firstFrame: 410
+      lastFrame: 470
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.9144737
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {fileID: 11500000, guid: d49795cc2a2b9ce458662c5e83d5786a,
+          type: 3}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9937304
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle2
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.37202382
+        functionName: Attack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stop
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beattack1
+      takeName: Take 001
+      firstFrame: 290
+      lastFrame: 312
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beattack2
+      takeName: Take 001
+      firstFrame: 318
+      lastFrame: 335
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Prop1
+        weight: 1
+      - path: Bip01/Bip01 Prop1/b
+        weight: 1
+      - path: "Bip01/Bip01 \u8DB3\u8FF9"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0/Bip01 L Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/bone10/bone14/bone17/bone19"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0/Bip01 R Toe0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/bone03/bone12/bone15/bone18"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01/Bip01 L Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip01
+          L Finger11/Bip01 L Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger2/Bip01
+          L Finger21/Bip01 L Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger3/Bip01
+          L Finger31/Bip01 L Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01/Bip01 R Finger0Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip01
+          R Finger11/Bip01 R Finger1Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger2/Bip01
+          R Finger21/Bip01 R Finger2Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger3/Bip01
+          R Finger31/Bip01 R Finger3Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/Bip01 \u5934\u90E8Nub"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone02/bone05/bone09"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8/bone04/bone08/bone11"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone20/bone22/bone24/bone26"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone28/bone21/bone23/bone25/bone27"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone29"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/bone30"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/bone00"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/bone06"
+        weight: 1
+      - path: Bip01/bone01
+        weight: 1
+      - path: Bip01/bone01/bone07
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13
+        weight: 1
+      - path: Bip01/bone01/bone07/bone13/bone16
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: Bone01/a
+        weight: 1
+      - path: Particle View 01
+        weight: 1
+      - path: Particle View 01 1
+        weight: 1
+      - path: Particle View 01 2
+        weight: 1
+      - path: Particle View 01 3
+        weight: 1
+      - path: Particle View 01 4
+        weight: 1
+      - path: Particle View 01 5
+        weight: 1
+      - path: Particle View 01 6
+        weight: 1
+      - path: Particle View 01 7
+        weight: 1
+      - path: Particle View 01 8
+        weight: 1
+      - path: Particle View 01 9
+        weight: 1
+      - path: Particle View 01 10
+        weight: 1
+      - path: Particle View 01 11
+        weight: 1
+      - path: Particle View 01 12
+        weight: 1
+      - path: Particle View 01 13
+        weight: 1
+      - path: Particle View 01 14
+        weight: 1
+      - path: Particle View 01 15
+        weight: 1
+      - path: Particle View 01 16
+        weight: 1
+      - path: Particle View 01 17
+        weight: 1
+      - path: Particle View 01 18
+        weight: 1
+      - path: Particle View 01 19
+        weight: 1
+      - path: Particle View 01 20
+        weight: 1
+      - path: Particle View 01 21
+        weight: 1
+      - path: Particle View 01 22
+        weight: 1
+      - path: Particle View 01 23
+        weight: 1
+      - path: Particle View 01 24
+        weight: 1
+      - path: Particle View 01 25
+        weight: 1
+      - path: Particle View 01 26
+        weight: 1
+      - path: Particle View 01 27
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
